@@ -11,9 +11,9 @@ The Drug Name Detection dataset serves as a fundamental resource for training an
 ## Project Structure
 
 The project consists of the following components:
-- **Data Collection**: Gathering data on pharmacy locations, medication inventory, and prescription patterns.
+- **Data Collection**: Gathering data on drug name detection and collection of images.
 - **Data Preprocessing**: Cleaning and preparing the data for model training.
-- **Model Training**: Developing and training ML models to predict medication availability.
+- **Model Training**: Developing and training ML models to predict Drug name.
 - **Model Evaluation**: Assessing the performance of the models.
 
 ## Installation
