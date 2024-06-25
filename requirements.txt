@@ -1,0 +1,38 @@
+# Drug Detection Project Dependencies
+
+# Core Scientific Libraries
+numpy==1.21.6
+pandas==1.3.5
+scipy==1.7.3
+
+# Data Visualization
+matplotlib==3.5.3
+seaborn==0.11.2
+
+# Machine Learning
+scikit-learn==1.0.2
+
+# Deep Learning
+tensorflow==2.9.2
+keras==2.9.0
+
+# Image Processing
+Pillow==9.3.0
+
+# Optical Character Recognition
+easyocr==1.6.2
+
+# File Handling and Serialization
+PyYAML==6.0
+
+# Jupyter or colab(for development)
+jupyter==1.0.0
+ipython==7.34.0
+
+# Utility Libraries
+tqdm==4.64.1  # For progress bars
+
+# Development Tools (optional)
+pytest==7.1.3  # For unit testing
+flake8==5.0.4  # For code linting
+black==22.10.0  # For code formatting
